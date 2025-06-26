@@ -4,6 +4,9 @@ A small software used to pack/extract psu files like you would in U/WlaunchELF o
 <br />
 <br />
 <br />
+
+Download here: https://github.com/Nikev2/ULaunchELF-PSU-pack-n-extract/releases/
+
 ## Why does this exist? Couldn't you just use existing tools?
 
 I made this tool because I was tired of having to use U_Launch_ELF to constantly transfer saves between pcsx2 (using mymc) and my regular FAT PS2 via a USB drive. There were no tools to help me, even the py_psu wasn't enough for me.
