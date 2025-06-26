@@ -35,13 +35,14 @@ Since I love to geek out, I wanted to make it a little less tedious way of trans
 
 -   **Using the EXE:** Extract the contents of  anywhere you want and run the EXE file.
     
--   **From the source (Note building not available yet):**
+-   **From the source:**
     
     -   Download the source code
         
     -   run `cd ULaunchELF-PSU-pack-n-extract`
         
     -   run `lua run_converter.lua` to use it
+    -   If you want to know how I built it I used a thing called LuaRT which is windows only and I built `run_converter.lua` into the exe
         
 
 ## Usage:
